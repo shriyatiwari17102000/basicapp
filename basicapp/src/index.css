@@ -1,0 +1,130 @@
+ button {
+  background-color: #4CAF50;
+  border:  none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+border-radius: 15px;  
+margin: 2px; 
+ } 
+
+input {
+  margin: 5px;
+    padding: 8px;
+    display: block;
+    border: 1px solid #ccc!important;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    box-shadow: 15px;
+
+} 
+
+label{
+  margin-bottom: 10px;
+}
+
+.innerDiv{
+  width: 47%;
+    margin: auto;
+
+}
+
+.addItems{
+  display: flex;
+  width: 40%;
+  margin: auto;
+}
+
+.add-btn{
+  display: inline;
+  margin: 6px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  padding: 11px;
+  justify-content:flex-end;
+}
+.add-butn{
+  display: inline;
+  margin: 6px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  padding: 1px;
+  height: 13px;
+  justify-content:flex-end;
+}
+
+ .todo-btn{
+display: flex;
+position: relative;
+border: 2px solid rgb(251, 248, 248);
+background-color: rgb(202, 187, 187);
+}
+
+.listItems{
+  background-color: rgb(161, 237, 161);
+  position: relative;
+  border: none;
+  border-radius: 4px;
+  width: 40%;
+  font-size: 18px;
+  height: 30px;
+  margin-left: 28.2rem;
+  margin-bottom: 3px;
+  text-align: start;
+  align-items: center;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+}
+.colummn{
+  display: flex;
+  flex-direction: column;
+}
+.jc-space-between{
+  justify-content:space-between;
+}
+
+h1, h2{
+  text-align: center;
+
+  font-size: 45px;
+}
+h3{
+  font-weight:550;
+}
+
+.restart{
+  margin-left:650px;
+}
+.removebtn{
+  margin-top: 0;
+  margin-left:690px;
+}
+
+
+.submitlist{
+  /* display: flex; */
+  width: 40%;
+  margin:2rem 20rem ;
+  position: relative;
+}
+
+.inputList{
+padding: 10px;
+/* padding-left: 100px; */
+padding-right: 300px;
+width: 50%;
+margin-left: 6rem;
+margin-bottom: 3px;
+font-weight: bold;
+font-size: 18px;
+position: relative;
+background-color: rgb(161, 237, 161);
+}
+
+

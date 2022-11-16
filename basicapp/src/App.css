@@ -1,0 +1,135 @@
+/*  
+h1{
+  font-size: 3rem;
+  place-items: center;
+}
+.form{
+  font-size: 20px;
+  margin: 15px 0;
+  display: flex;
+}
+
+.btn{
+  padding: 10px 30px;
+  margin: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  border: 2px solid white;
+  background-color: rgb(11, 62, 43);
+  border-radius: 5px;
+}
+
+.main-div{
+  background-color: rgb(8, 61, 26);
+  margin-top: 70px;
+}
+h2{
+  font-size: 3rem;
+  margin-top: 70px;
+}
+.main-div input{
+  font-size: 16px;
+  padding: 15px;
+  width: 500px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin:10px auto;
+  border: 0;
+  border-radius: 5px;
+  outline: none;
+}
+.addItems{
+    display: flex;
+    align-items: stretch;
+  }
+
+ .main_div{
+   width: 100%;
+   height: 100vh;
+   background: rgb(98, 136, 240);
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+ }
+
+ .center_div{
+   width: 25%;
+   height: 80vh;
+   background-color: #f4f4f4;
+   box-shadow: 5px 5px 25px -5px rgb(21, 21, 21);
+   border-radius: 15px;
+  }
+  
+  .timer{
+    width: 100%;
+    color: black;
+    height: 100vh;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+   }
+  
+   .container{
+    padding-top: 100px;
+   }
+  
+   .timer_container{
+    background-color: #fff;
+    width: 20vw;
+    padding: 1rem 6rem;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1rem -0.7rem rgb(0,0,0,0.4);
+   }
+  
+    .restart{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 18px;
+    background-color: skyblue;
+    width: 130px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+   }
+  
+   .stop{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 18px;
+    background-color: skyblue;
+    width: 130px;
+    height: 50px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 15px;
+   } 
+   input label {
+    display: block;
+   }
+ 
+   input{
+      border: 5px solid white; 
+      -webkit-box-shadow: 
+        inset 0 0 8px  rgba(0,0,0,0.1),
+              0 0 16px rgba(0,0,0,0.1); 
+      -moz-box-shadow: 
+        inset 0 0 8px  rgba(0,0,0,0.1),
+              0 0 16px rgba(0,0,0,0.1); 
+      box-shadow: 
+        inset 0 0 8px  rgba(0,0,0,0.1),
+              0 0 16px rgba(0,0,0,0.1); 
+      padding: 15px;
+      background: rgba(255,255,255,0.5);
+      margin: 0 0 10px 0;
+  
+   }
+ 
+  */
